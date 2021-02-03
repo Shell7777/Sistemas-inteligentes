@@ -1,0 +1,4 @@
+conda create -n expertoUPN1
+conda activate expertoUPN1
+
+pip install kanren 

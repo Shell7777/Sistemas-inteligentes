@@ -1,0 +1,4 @@
+conda create -n expertoUPN
+conda activate expertoUPN
+
+pip install experta 

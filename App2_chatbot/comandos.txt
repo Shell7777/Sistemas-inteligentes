@@ -1,0 +1,10 @@
+conda create -n sichatbot python=3.7
+activate sichatbot
+
+pip install chatterbot
+pip install chatterbot_corpus
+pip install spacy
+pip install pymongo
+
+
+python -m spacy download en

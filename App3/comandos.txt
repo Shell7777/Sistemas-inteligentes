@@ -1,0 +1,16 @@
+conda create -n recoDigitos
+activate recoDigitos
+
+pip install opencv_contrib_python
+pip install numpy scipy matplotlib scikit-learn jupyter
+pip install pillow
+pip install keras
+
+pip install tkinter
+
+
+
+# nuevo entorno
+
+pip install SpeechRecognition
+pip install PyAudio

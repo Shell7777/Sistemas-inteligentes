@@ -1,0 +1,8 @@
+conda create -n upnrecoimg python=3.6
+activate upnrecoimg
+
+pip install opencv_contrib_python
+pip install numpy scipy matplotlib scikit-learn jupyter
+pip install pillow
+conda create -n upnrecoimg python=3.6
+pip install PyAudio

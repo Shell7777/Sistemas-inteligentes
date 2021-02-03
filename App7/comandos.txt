@@ -1,0 +1,4 @@
+conda create -n viartupn
+conda activate viartupn
+ 
+pip install opencv-python
